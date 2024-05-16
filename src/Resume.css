@@ -1,0 +1,7 @@
+.header{
+    background-image: url(images/health.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150vh;
+    width: 100%;
+}

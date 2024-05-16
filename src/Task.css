@@ -1,0 +1,11 @@
+.div1{
+    background-color: rgba(255, 68, 0, 0.678);
+    height: 50px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.bmi{
+    text-align: center;
+}

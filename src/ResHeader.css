@@ -1,0 +1,21 @@
+.headers{
+    position: relative;
+    background-color: rgba(165, 42, 42, 0.76);
+    height: 100px;
+    width: 100%;
+    
+}
+.page{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    float: right;
+    
+}
+.maker{
+    position: absolute;
+    left: 5px;
+    color: white;
+    font-size:40px ;
+}
