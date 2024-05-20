@@ -97,19 +97,19 @@ function Task() {
                         <tbody>
                             <tr>
                             <td>18.4</td>
-                            <Link to='/under'><td><button>Underweight</button></td></Link>
+                            <Link to='/under'><td><a href=''className='a'>Underweight</a></td></Link>
                             </tr>
                             <tr>
                             <td>18.5-24.9</td>
-                            <Link to='/normal'><td><button>Normal</button></td></Link>
+                            <Link to='/normal'><td><a href='' className='a'>Normal</a></td></Link>
                             </tr>
                             <tr>
                             <td>25.0-39.9</td>
-                            <Link to='/over'><td><button>Over</button></td></Link>
+                            <Link to='/over'><td><a href='' className='a'>Over</a></td></Link>
                             </tr>
                             <tr>
                             <td>40.0</td>
-                            <td>Obese</td>
+                            <td><a href='' className='a'>Obese</a></td>
                             </tr>
                         </tbody>
                         </Table>
